@@ -1,0 +1,17 @@
+{
+  "name": "cascadia-string-to-slug",
+  "version": "1.0.0",
+  "description": "converts '#ÆRO GIRLS!^!' to 'aero-girls'",
+  "main": "src/init.js",
+  "dependencies": {
+    "diacritics": "1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ebay.com:cascadia/cascadia-string-to-slug.git"
+  },
+  "contributors": [
+    "Brenton Simpson <bresimpson@ebay.com> (http://appsforartists.com)"
+  ],
+  "license": "Proprietary"
+}

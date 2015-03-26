@@ -1,17 +1,17 @@
 {
-  "name": "cascadia-string-to-slug",
+  "name": "string-to-slug",
   "version": "1.0.0",
-  "description": "converts '#ÆRO GIRLS!^!' to 'aero-girls'",
+  "description": "Makes a URL-safe slug out of an arbitrary string",
   "main": "src/init.js",
   "dependencies": {
     "diacritics": "1.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.ebay.com:cascadia/cascadia-string-to-slug.git"
+    "url": "git@github.com:appsforartists/string-to-slug.git"
   },
   "contributors": [
     "Brenton Simpson <bresimpson@ebay.com> (http://appsforartists.com)"
   ],
-  "license": "Proprietary"
+  "license": "MIT"
 }
